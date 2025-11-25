@@ -1,1 +1,2 @@
-localai:latest
+localai
+localai/localai:latest
